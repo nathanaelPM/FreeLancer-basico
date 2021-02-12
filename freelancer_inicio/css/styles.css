@@ -188,7 +188,7 @@ h3 {
 
 /* hero */
 .hero {
-  background-image: url(/freelancer_inicio/img/hero.jpg);
+  background-image: url(../freelancer_inicio/img/hero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 450px;
